@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15</folder>
+	<filename>IP015000809.jpg</filename>
+	<path>C:\Users\User\Desktop\pest_dataset\train_images\train_images\15\IP015000809.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>373</width>
+		<height>218</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>68</ymin>
+			<xmax>319</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

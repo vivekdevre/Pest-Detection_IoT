@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>IP000000202.jpg</filename>
+	<path>C:\pest images\val_images\0\IP000000202.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1757</width>
+		<height>1316</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>581</ymin>
+			<xmax>1684</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+</annotation>

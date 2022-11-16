@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>IP001000361.jpg</filename>
+	<path>/home/shivam/shivam/pest_images/train_images/1/IP001000361.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>161</ymin>
+			<xmax>494</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
